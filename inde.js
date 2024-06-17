@@ -12,4 +12,4 @@ for (let i = 0; i < numeros.length; i++) {
 
 let comSpread = [...pares, ...impares];
 
-console.log(comSpread);
+console.log(comSpread );
